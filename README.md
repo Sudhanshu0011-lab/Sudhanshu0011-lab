@@ -4,7 +4,7 @@
 Welcome to my GitHub portfolio!😀
 
 I am interested in financial markets, data analytics,
-and business intelligence. I use Python, Power BI,
+and business intelligence. I use Python, Power BI, SQL
 and Excel to transform data into meaningful insights.
 
 ## 🛠 Technical Skills
