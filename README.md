@@ -27,7 +27,7 @@ Python, Pandas, Parquet, and Power BI.
 
 [📂 View Project](https://github.com/Sudhanshu0011-lab/data-analysis-portfolio/tree/main/capital-markets/euronext-equity-index-derivatives)
 
-[📂 View Certificates](https://github.com/Sudhanshu0011-lab/Sudhanshu0011-lab/tree/76f94ddeedb2e61ec3451d9a10f213405ad6fd0e/certificates)
+[📂 View Certificates](https://github.com/Sudhanshu0011-lab/Sudhanshu0011-lab/tree/0c7d492aa53025c8058014c951fb3490582da846/certificates)
 
 ## 🔗 Connect With Me
 
